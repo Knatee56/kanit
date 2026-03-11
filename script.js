@@ -7,7 +7,7 @@ const items = {
           },
            ],
         epic: [
-          { name: "ธนูสายฟ้า", emoji: "🦄", desc: "pet" },
+          { name: "unicorn", emoji: "🦄", desc: "pet" },
           {
             name: "mammoth",
             emoji: "🦣",
@@ -21,12 +21,12 @@ const items = {
           },
         ],
         rare: [
-          { name: "ขวานนักรบ", emoji: "🐕‍🦺", desc: "pet" },
-          { name: "โล่เหล็กกล้า", emoji: "🐷", desc: "pet" },
-          { name: "ยาพิษ", emoji: "🦓", desc: "pet" },
-          { name: "แผนที่ลับ", emoji: "🐴", desc: "pet" },
-          { name: "กุญแจทอง", emoji: "🐟", desc: "eat" },
-          { name: "หนังสือเวท", emoji: "👻", desc: "สวดมนต์เอาเด้อ" },
+          { name: "dawg", emoji: "🐕‍🦺", desc: "pet" },
+          { name: "pih", emoji: "🐷", desc: "pet" },
+          { name: "zebra", emoji: "🦓", desc: "pet" },
+          { name: "horse", emoji: "🐴", desc: "pet" },
+          { name: "fish", emoji: "🐟", desc: "eat" },
+          { name: "ghost", emoji: "👻", desc: "สวดมนต์เอาเด้อ" },
         ],
         uncommon: [
           { name: "golf", emoji: "🏌️‍♀️", desc: "ตีgolf" },
@@ -372,4 +372,5 @@ const items = {
             };
           }
         }
+
       })();
